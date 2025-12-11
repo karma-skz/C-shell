@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-
+.specstory/
 # Object files
 *.o
 *.ko
